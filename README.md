@@ -1,4 +1,4 @@
-# NativePhones2
+# NativePhones
 
 React native (Front end) part of test task.
 
